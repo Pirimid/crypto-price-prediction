@@ -1,4 +1,4 @@
-# crypto-price-projection
+# Crypto-Price-Prodiction
 AI Model to predict crypto prices using modern machine learning and deep learning methods. 
 
 ## How to use?
